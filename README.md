@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrburgercheese&label=Profile%20Views&color=00ff9d&style=flat-square" alt="Visitor Count" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
