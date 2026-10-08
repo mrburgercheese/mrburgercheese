@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there! 👋 I'm <a href="https://github.com/mrburgercheese">mrburgercheese</a>
+  Hi there! 👋 I'm <a href="https://github.com/mrburgercheese">Human</a>
 </h1>
 
 <p align="center">
